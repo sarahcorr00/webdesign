@@ -1,0 +1,37 @@
+body
+{
+    background-color:navy;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1,h2,h2
+{
+    color:white;
+    font-family:verdana;
+    text-decoration: underline;
+    text-align:center;
+}
+
+#mainText
+{
+    color:black;
+    font-family:aial;
+    text-align: justify;
+    
+}
+
+.fullWidthContent{
+    width:100%;
+}
+
+a{
+    font-size:35px;
+}
+
+.anchorLarge
+{
+    color: chartreuse;
+    font-size:35px;
+    padding:80px;
+}
